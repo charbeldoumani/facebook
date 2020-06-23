@@ -1,0 +1,184 @@
+*{
+    /* border: 1px solid green; */
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #3B5998;
+    color: white;
+    padding-top: 10px;
+}
+
+#header_content{
+    width: 60%;
+    margin: 0 auto;
+}
+
+#login{
+    background-color: #4267B2;
+    color: white;
+}
+
+.nav_bar{
+    display: inline;
+    vertical-align: top;
+}
+
+.nav_align{
+    display: inline-flex;
+    padding-left: 5px;
+    /* margin-left: 5px; */
+}
+
+.align_left{
+    margin-left: 5px;
+}
+
+.facebook_logo{
+    width: 43%;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+#login{
+    /* margin-top: 5px; */
+    vertical-align: bottom;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.log_in_height{
+    height: 20px;
+}
+
+ul li{
+    list-style: none;
+}
+
+body{
+    background-color: #E9EBEE;
+}
+
+#content{
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 60%;
+}
+
+#left_content{
+    width: 60%;
+    display: inline-block
+}
+
+.left_content_picture{
+    width: 400px;
+    padding-top: 25px;
+}
+
+#right_content{
+    width: 25%;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 25px;
+}
+
+.align_bottom{
+    margin-bottom: 5px;
+}
+
+.right_content_signup{
+    padding-left: 55px;
+}
+
+.text_color{
+    color: #3858A3;
+}
+
+#sign_up{
+    width: 40%;
+    height: 30px;
+    background-color: #5F9C4C;
+    color: white;
+    font-size: larger;
+}
+
+.text_color{
+    color: #35406C;
+}
+
+.center{
+    text-align: center;
+}
+
+#etc{
+    background-color: lightgray;
+}
+
+#footer_content{
+    width: 43%;
+    margin: 0 auto;
+}
+
+#copyright{
+    width: 27%;
+    display: inline-block;
+    vertical-align: top;
+    /* padding-left: 180px; */
+    /* padding-left: 5px; */
+}
+
+#copyright_mobile{
+    display: inline-block;
+    padding-left: 140px;
+}
+
+.align_right{
+    text-align: right;
+}
+
+.footer_padding{
+    padding-left: 180px;
+    /* width: 60%; */
+}
+
+.padding_left{
+    padding-left: 150px;
+}
+
+/* .height{
+    height: 23px;
+    margin-left: 35px;
+} */
+
+/* .height_label{
+    height: 23px;
+    margin-left: 30px;
+    width: 170px;
+} */
+
+.height_label_email{
+    height: 23px;
+    margin-left: 35px;
+    width: 170px;
+}
+
+.height_label_password{
+    height: 23px;
+    margin-left: 10px;
+    width: 170px;
+}
+
+/* .height_label_iam{
+    margin-left: 40px;
+} */
+
+#fb{
+    opacity: 0.5;
+}
+
+.height_label{
+    -webkit-box-sizing: border-box;
+    width: 60%;
+    height: 27px;
+}
